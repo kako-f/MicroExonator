@@ -9,7 +9,7 @@ Genome = {}
 
 def Genomictabulator(fasta):
 
-	print >> sys.stderr, "Cargando genoma en la memoria RAM ...",
+	print >> sys.stderr, "Loading genome into RAM...",
 
 	f = open(fasta)
 
